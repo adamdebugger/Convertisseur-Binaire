@@ -5,7 +5,7 @@ Un convertisseur binaire simple et efficace, disponible pour **Windows** et **An
 🔗 **Essaye-le en ligne : [app.webuxai.com](https://app.webuxai.com)**  
 
 ## 📌 Fonctionnalités
-- 🔢 Conversion facile entre binaire et décimal
+- 🔢 Conversion facile entre décimal et binaire
 - 🖥️ Interface intuitive et rapide
 - 📱 Compatible avec Windows et Android
 - 📝 Contient aussi des **exercices interactifs** pour s'entraîner !
@@ -23,7 +23,7 @@ Un convertisseur binaire simple et efficace, disponible pour **Windows** et **An
 
 ## 🔧 Utilisation
 1. Lance l'application.
-2. Saisis un nombre en binaire ou en décimal.
+2. Saisis un nombre ou un texte en décimal.
 3. Obtiens instantanément la conversion !
 4. Accède aux exercices pour t'entraîner et tester tes connaissances.
 
