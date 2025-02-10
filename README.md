@@ -14,11 +14,11 @@ Un convertisseur binaire simple et efficace, disponible pour **Windows** et **An
 ## 📥 Installation
 
 ### 🖥️ Windows
-1. Télécharge le fichier `.exe` depuis [Releases](https://github.com/adamdebugger/Convertisseur-Binaire/blob/main/Convertisseur-Binaire.apk).
+1. Télécharge le fichier `.exe` depuis [Releases](https://github.com/adamdebugger/Convertisseur-Binaire/blob/main/Install_Convertisseur_Binaire.exe).
 2. Ouvre le fichier et suis les instructions d’installation.
 
 ### 📱 Android
-1. Télécharge le fichier `.apk` depuis [Releases](https://github.com/adamdebugger/Convertisseur-Binaire/releases).
+1. Télécharge le fichier `.apk` depuis [Releases](https://github.com/adamdebugger/Convertisseur-Binaire/blob/main/Convertisseur-Binaire.apk).
 2. Installe-le sur ton appareil (active les "Sources inconnues" si nécessaire).
 
 ## 🔧 Utilisation
